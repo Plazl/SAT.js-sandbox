@@ -1,1 +1,1 @@
-var SAT = require('sat');
+var SAT = require('SAT.js');
